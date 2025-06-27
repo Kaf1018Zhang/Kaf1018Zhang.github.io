@@ -4,7 +4,7 @@ navbar_name: "Kaijie Zhang"
 
 positions:
 - logo: /assets/images/badges/ucsd.png  # Logo is optional
-  name: Current 3rd-yr undergraduate student at UC San Diego
+  name: Third-year undergraduate @ UC San Diego (Halıcıoğlu Data Science Institute)
 
 
 email: "kaijiezhang2003@gmail.com"
@@ -23,7 +23,7 @@ short_bio: >-
   <p>
     Hi! I am Kaijie Zhang (He/Him). I come from Guangzhou, Guangdong, China. I am a third-year undergraduate student at UC San Diego, majoring in Data Science with a minor in Mathematics. 
     I completed my first two years of study at UC Irvine, where I pursued a double major in Computer Science and Mathematics.
-      My academic interests span software development, machine learning algorithms, data analysis, medical data science, and large language models (LLMs).
+      My academic interests include software development, algorithms in machine learning and deep learning, data analysis, medical data science, and large language models (LLMs).
   </p>
   <p>
     Outside of academics, I enjoy staying attuned to intriguing and meaningful events happening around the world. 
@@ -36,16 +36,17 @@ portrait_caption: >-
   In front of the Hollywood Sign (Mount Lee). I only kept the (Holly) here.
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+- name: University of California, San Diego
+  logo: /assets/images/badges/ucsd.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+    Overall GPA: 3.95 <br/>
+    Halıcıoğlu Data Science Institute <br/>
+    B.S. in Data Science (minor in Mathematics) <br/>
+  date: Sep. 2022 - present
+- name: BASIS International School, Guangzhou
+  logo: /assets/images/badges/bigz.png
+  position: High School
+  date: Sep. 2018 - Jul. 2022
 
 # experience:
 # - name: Peking University
@@ -54,9 +55,13 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
+- name: Dean's Honor List
+  date: Sep. 2022 - present
+- name: ICPC Southern California Regional Contest, UCI Petr
+  date: 2023
+- name: USACO US Open Platinum Division (Gold Division)
+  date: 2023
+- name: Top 1% in Euclid Math Contest by U of Waterloo (global rank 165/16932)
   date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
+- name: Top 1.1% in Fermat Math Contest by U of Waterloo (global rank 115/10596)
   date: 2021
