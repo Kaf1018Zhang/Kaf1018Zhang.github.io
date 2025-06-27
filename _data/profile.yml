@@ -23,7 +23,7 @@ short_bio: >-
   <p>
     Hi! I am Kaijie Zhang (He/Him). I come from Guangzhou, Guangdong, China. I am a third-year undergraduate student at UC San Diego, majoring in Data Science with a minor in Mathematics. 
     I completed my first two years of study at UC Irvine, where I pursued a double major in Computer Science and Mathematics.
-      My academic interests include software development, algorithms in machine learning and deep learning, data analysis, medical data science, and large language models (LLMs).
+      My academic interests include software development, algorithms in machine learning and deep learning, data analysis, medical applications of data science, and large language models (LLMs).
   </p>
   <p>
     Outside of academics, I enjoy staying attuned to intriguing and meaningful events happening around the world. 
@@ -55,11 +55,11 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 awards:
-- name: Dean's Honor List
+- name: Dean's Honor List (UCSD, UCI, UCB)
   date: Sep. 2022 - present
-- name: ICPC Southern California Regional Contest, UCI Petr
+- name: The ICPC International Collegiate Programming Contest, Southern California Regional Contest, UCI Petr
   date: 2023
-- name: USACO US Open Platinum Division (Gold Division)
+- name: The USA Computing Olympiad (USACO) US Open Platinum Division (Gold Division)
   date: 2023
 - name: Top 1% in Euclid Math Contest by U of Waterloo (global rank 165/16932)
   date: 2021
