@@ -48,11 +48,19 @@ education:
   position: High School
   date: Sep. 2018 - Jul. 2022
 
-# experience:
-# - name: JD.com
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Business and Operation Support Intern
-#   date: Jun. 2024 - Sep. 2024
+experience:
+- name: Common Crawl
+  logo: /assets/images/badges/cc.png
+  position: Research Intern
+  date: Jun. 2025 - present
+- name: Everbright Securities International, Everbright Fortune IT
+  logo: /assets/images/badges/everbright.png
+  position: Software Development Engineer Intern
+  date: Aug. 2024 - Sep. 2024
+- name: JD.com
+  logo: /assets/images/badges/jd.png
+  position: Business and Operation Support Intern
+  date: Jun. 2024 - Aug. 2024
 
 awards:
 - name: Dean's Honor List (UCSD, UCI, UCB)
