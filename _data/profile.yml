@@ -63,17 +63,21 @@ experience:
   date: 2024
 
 others:
-- name: Common Crawl
-  logo: /assets/images/badges/cc.png
-  position: Research Intern
+- name: University of California, San Diego
+  logo: /assets/images/badges/ucsd.png
+  position: Tutor (Data Science 20)
   date: 2025
-- name: Everbright Securities International, Everbright Fortune IT
-  logo: /assets/images/badges/eb.png
-  position: Software Development Engineer Intern
-  date: 2024
-- name: JD.com
-  logo: /assets/images/badges/jd.png
-  position: Business and Operation Support Intern
+- name: Computer Science and Engineering Society, E/Acc
+  logo: /assets/images/badges/cses.png
+  position: Researcher/Developer
+  date: 2025
+- name: XU Lab
+  logo: /assets/images/badges/uci.png
+  position: Volunteer Student Researcher
+  date: 2025
+- name: Test Daily
+  logo: /assets/images/badges/td.png
+  position: Teaching Assistant (Probability Theory)
   date: 2024
 
 awards:
