@@ -13,12 +13,6 @@ navbar_title: Home
     {% include widgets/experience_card.html %}
 {% endif %}
 
-{% if site.others %}
-  {% include widgets/experience_card.html 
-     experience=site.others 
-     title='<i class="fas fa-shapes"></i> Other Experience' %}
-{% endif %}
-
 {% if site.data.display.homepage.show_news %}
     {% assign count_news = site.news | size %}
     {% if count_news > 0 %}
