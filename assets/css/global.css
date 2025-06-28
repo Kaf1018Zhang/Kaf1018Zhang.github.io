@@ -3,6 +3,8 @@ body {
     font-family: "Lato", sans-serif;
     font-weight: 400;
     padding-top: 5.0rem;
+    background: linear-gradient(135deg, #f5f7fa, #e3eaf1); 
+    background-attachment: fixed;
 }
 
 h1, h2, h3, h4, h5, h6,
