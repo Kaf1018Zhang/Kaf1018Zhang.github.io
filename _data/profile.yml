@@ -71,10 +71,10 @@ others:
   logo: /assets/images/badges/cses.png
   position: Researcher/Developer
   date: 2025
-- name: XU Lab
-  logo: /assets/images/badges/uci.png
-  position: Volunteer Student Researcher
-  date: 2025
+# - name: XU Lab
+#   logo: /assets/images/badges/uci.png
+#   position: Volunteer Student Researcher
+#   date: 2025
 - name: Test Daily
   logo: /assets/images/badges/td.png
   position: Teaching Assistant (Probability Theory)
