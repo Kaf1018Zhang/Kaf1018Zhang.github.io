@@ -3,3 +3,5 @@ homepage:
   show_news: false
   show_selected_publications: false
   num_news: 10
+
+  # This is the original project I refer to. Thanks a lot to this wonderful platform: https://github.com/luost26/academic-homepage
